@@ -7,7 +7,7 @@
 
 ### Hướng dẫn clone Repo code này về máy các bạn chuẩn nhất ở video này:
 
-- Semantic Versioning là gì? Lưu ý Quan Trọng về bộ Code Base của dự án. Link: https://youtu.be/lUfsTj45Uys
+<!-- - Semantic Versioning là gì? Lưu ý Quan Trọng về bộ Code Base của dự án. Link: https://youtu.be/lUfsTj45Uys -->
 
 ---
 
